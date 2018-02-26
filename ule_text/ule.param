@@ -1,0 +1,8 @@
+Data type: dense
+Number of features: 784
+Number of examples and check-sums:
+     	Num_ex	Check_sum
+Devel	26808	699674378.00
+Valid	 4096	90117904.00
+Final	 4096	126645964.00
+All  	35000	916438246.00
